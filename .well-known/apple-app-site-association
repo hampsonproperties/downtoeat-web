@@ -1,0 +1,47 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["P4TVC8T64Y.com.downtoeat.app"],
+        "components": [
+          {
+            "/": "/place/*",
+            "comment": "Place detail deep links"
+          },
+          {
+            "/": "/list/*",
+            "comment": "List detail deep links"
+          },
+          {
+            "/": "/c/*",
+            "comment": "Check-in view deep links"
+          },
+          {
+            "/": "/@*",
+            "comment": "User profile deep links"
+          },
+          {
+            "/": "/r/*",
+            "comment": "Referral code deep links"
+          },
+          {
+            "/": "/quest/*",
+            "comment": "Quest detail deep links"
+          },
+          {
+            "/": "/vibe/*",
+            "comment": "Vibe page deep links"
+          },
+          {
+            "/": "/invite/*",
+            "comment": "Legacy invite deep links"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["P4TVC8T64Y.com.downtoeat.app"]
+  }
+}
