@@ -9,5 +9,10 @@
         }
       ]
     }
-  ]
+  ],
+  "functions": {
+    "api/generate-share-image.tsx": {
+      "runtime": "@vercel/edge"
+    }
+  }
 }
